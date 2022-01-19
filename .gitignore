@@ -140,3 +140,5 @@ upstream/web/
 
 # Ignore composer.lock for distro, but don't ignore when in use.
 composer.lock
+/.editorconfig
+/.gitattributes
